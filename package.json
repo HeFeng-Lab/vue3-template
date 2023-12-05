@@ -1,12 +1,12 @@
 {
   "name": "@code-lab/vue3-template",
   "version": "0.1.0",
+  "author": "hefeng6500 <2443992009@qq.com>",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC"
 }
